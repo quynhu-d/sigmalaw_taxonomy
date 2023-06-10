@@ -1,0 +1,98 @@
+Category 16; 14 clusters
+____________________________________________________________________________________________________
+Cluster 0; contribution 0.0163:
+[('action judgment', '0.9689')]
+
+
+Cluster 1; contribution 0.0161:
+[('agreement construction', '0.9185'), ('district litigation', '0.3325')]
+
+
+Cluster 2; contribution 0.0155:
+[('provision reasonable', '0.6348'), ('agreement reasonable', '0.5804'), ('interpretation reasonable', '0.4747')]
+
+
+Cluster 3; contribution 0.0153:
+[('determination upon', '0.9249')]
+
+
+Cluster 4; contribution 0.0150:
+[('provision provision', '0.6782'), ('district termination', '0.6142'), ('question question', '0.3087')]
+
+
+Cluster 5; contribution 0.0140:
+[('agreement violation', '0.7306'), ('enforcement interpretation', '0.5435'), ('district litigation', '0.2792')]
+
+
+Cluster 6; contribution 0.0134:
+[('date termination', '0.8781'), ('determination factual', '0.2881')]
+
+
+Cluster 7; contribution 0.0132:
+[('addition agreement', '0.8333'), ('limitation provision', '0.3890')]
+
+
+Cluster 8; contribution 0.0129:
+[('determination district', '0.6514'), ('contract provision', '0.6221'), ('interpretation provision', '0.2657')]
+
+
+Cluster 9; contribution 0.0124:
+[('agreement include', '0.8516'), ('judgment motion', '0.2805'), ('agreement obligation', '0.2486'), ('contractual obligation', '0.2346')]
+
+
+Cluster 10; contribution 0.0118:
+[('judgment judgment', '0.6743'), ('judgment motion', '0.4520'), ('contract judgment', '0.4007'), ('decision judgment', '0.3415')]
+
+
+Cluster 11; contribution 0.0110:
+[('agreement contractual', '0.7011'), ('agreement interpretation', '0.5750'), ('district provision', '0.2149')]
+
+
+Cluster 12; contribution 0.0108:
+[('agreement question', '0.7882'), ('district reconsideration', '0.3435'), ('application interpretation', '0.2476'), ('provision termination', '0.2342'), ('contract determination', '0.2199')]
+
+
+Cluster 13; contribution 0.0102:
+[('court determination', '0.8768'), ('contract determination', '0.2636')]
+
+
+Cluster 14; contribution 0.0098:
+[('consideration district', '0.5614'), ('motion reconsideration', '0.5608'), ('district reconsideration', '0.5072'), ('question question', '0.2607')]
+
+
+Cluster 15; contribution 0.0096:
+[('citation quotation', '0.7235'), ('agreement application', '0.4422'), ('application interpretation', '0.3331'), ('limitation provision', '0.2871')]
+
+
+Cluster 16; contribution 0.0093:
+[('determination regard', '0.9036')]
+
+
+Cluster 17; contribution 0.0092:
+[('district requirement', '0.8449'), ('district litigation', '0.3087'), ('district provision', '0.2261'), ('district termination', '0.2106')]
+
+
+Cluster 18; contribution 0.0090:
+[('determination factual', '0.9138'), ('contract termination', '0.2115')]
+
+
+Cluster 19; contribution 0.0078:
+[('agreement provision', '0.5981'), ('contractual obligation', '0.5072'), ('agreement termination', '0.4126'), ('contract interpretation', '0.2283')]
+
+
+Cluster 20; contribution 0.0061:
+[('question question', '0.8312'), ('provision question', '0.3360'), ('agreement question', '0.2447')]
+
+
+Cluster 21; contribution 0.0060:
+[('obligation provide', '0.6335'), ('contractual obligation', '0.4926'), ('agreement obligation', '0.4300'), ('district litigation', '0.2811')]
+
+
+Cluster 22; contribution 0.0053:
+[('interpretation provision', '0.8080'), ('contract determination', '0.2802'), ('provision reasonable', '0.2743')]
+
+
+Cluster 23; contribution 0.0045:
+[('judgment motion', '0.6532'), ('agreement provide', '0.5573'), ('motion reconsideration', '0.3932')]
+
+

@@ -1,0 +1,98 @@
+Category 9; 13 clusters
+____________________________________________________________________________________________________
+Cluster 0; contribution 0.0159:
+[('discrimination district', '0.7936'), ('court determination', '0.5996')]
+
+
+Cluster 1; contribution 0.0150:
+[('discrimination discrimination', '0.9345'), ('court determination', '0.2197')]
+
+
+Cluster 2; contribution 0.0143:
+[('requirement termination', '0.7059'), ('constitutional requirement', '0.5407'), ('citation quotation', '0.4028')]
+
+
+Cluster 3; contribution 0.0143:
+[('determination jury', '0.7988'), ('claim discrimination', '0.5541')]
+
+
+Cluster 4; contribution 0.0134:
+[('commission discrimination', '0.7888'), ('determination qualified', '0.4537'), ('allegation discrimination', '0.2324')]
+
+
+Cluster 5; contribution 0.0132:
+[('base determination', '0.8012'), ('reason termination', '0.4988')]
+
+
+Cluster 6; contribution 0.0128:
+[('discrimination employment', '0.6276'), ('position question', '0.5947'), ('discrimination retaliation', '0.3730')]
+
+
+Cluster 7; contribution 0.0126:
+[('discrimination therefore', '0.8866'), ('amendment constitution', '0.2337')]
+
+
+Cluster 8; contribution 0.0121:
+[('cause determination', '0.8656'), ('plaintiff termination', '0.2692'), ('discrimination violation', '0.2594')]
+
+
+Cluster 9; contribution 0.0117:
+[('discrimination intentional', '0.7160'), ('position reasonable', '0.4164'), ('discrimination provision', '0.3584'), ('include termination', '0.2837')]
+
+
+Cluster 10; contribution 0.0113:
+[('constitutional question', '0.7287'), ('determination district', '0.4671'), ('discrimination plaintiff', '0.2895'), ('position reasonable', '0.2677'), ('termination violation', '0.2432')]
+
+
+Cluster 11; contribution 0.0107:
+[('discrimination equal', '0.8618'), ('discrimination first', '0.2994'), ('determination jury', '0.2129')]
+
+
+Cluster 12; contribution 0.0102:
+[('discrimination inference', '0.7735'), ('discrimination provision', '0.4701'), ('question reasonable', '0.2789')]
+
+
+Cluster 13; contribution 0.0094:
+[('cause termination', '0.7626'), ('discrimination title', '0.4553'), ('determination factual', '0.2494')]
+
+
+Cluster 14; contribution 0.0093:
+[('allegation discrimination', '0.8645'), ('decision termination', '0.2470'), ('decision judgment', '0.2373')]
+
+
+Cluster 15; contribution 0.0092:
+[('discrimination evidence', '0.7557'), ('complaint discrimination', '0.4835')]
+
+
+Cluster 16; contribution 0.0081:
+[('discrimination state', '0.8017'), ('termination time', '0.3153'), ('constitutional violation', '0.2779'), ('discrimination plaintiff', '0.2298'), ('discrimination district', '0.2257')]
+
+
+Cluster 17; contribution 0.0080:
+[('discrimination subject', '0.8255'), ('include termination', '0.3000'), ('judgment motion', '0.2156'), ('question reasonable', '0.2149')]
+
+
+Cluster 18; contribution 0.0078:
+[('discrimination retaliation', '0.7285'), ('favorable termination', '0.4365'), ('discrimination prohibition', '0.3317'), ('citation quotation', '0.2688')]
+
+
+Cluster 19; contribution 0.0076:
+[('determination make', '0.7380'), ('claim discrimination', '0.5689')]
+
+
+Cluster 20; contribution 0.0068:
+[('termination violation', '0.7647'), ('action discrimination', '0.4958')]
+
+
+Cluster 21; contribution 0.0059:
+[('constitutional protection', '0.7296'), ('discrimination violation', '0.3685'), ('determination district', '0.3516'), ('termination violation', '0.2303'), ('action violation', '0.2131')]
+
+
+Cluster 22; contribution 0.0054:
+[('determination liability', '0.8600'), ('commission discrimination', '0.2737')]
+
+
+Cluster 23; contribution 0.0040:
+[('citation quotation', '0.8151'), ('plaintiff termination', '0.2724'), ('discrimination plaintiff', '0.2702'), ('complaint discrimination', '0.2276')]
+
+

@@ -1,0 +1,78 @@
+Category 13; 10 clusters
+____________________________________________________________________________________________________
+Cluster 0; contribution 0.0158:
+[('constitutional violation', '0.7876'), ('constitution provision', '0.5645')]
+
+
+Cluster 1; contribution 0.0155:
+[('find unconstitutional', '0.8780'), ('amendment constitutional', '0.3393'), ('constitution state', '0.2247'), ('government requirement', '0.2119')]
+
+
+Cluster 2; contribution 0.0143:
+[('constitutional establish', '0.8449'), ('argument government', '0.4415')]
+
+
+Cluster 3; contribution 0.0140:
+[('conditions unconstitutional', '0.8069'), ('constitutional question', '0.4455'), ('constitution state', '0.2479'), ('district government', '0.2182')]
+
+
+Cluster 4; contribution 0.0136:
+[('analysis constitutional', '0.8017'), ('accord government', '0.4152'), ('constitutional plaintiff', '0.2514')]
+
+
+Cluster 5; contribution 0.0125:
+[('information question', '0.5141'), ('determination district', '0.4671'), ('determination publication', '0.4559'), ('citation quotation', '0.3700'), ('consideration decision', '0.3668')]
+
+
+Cluster 6; contribution 0.0121:
+[('constitutionally reasonable', '0.8547'), ('discrimination unconstitutional', '0.2865')]
+
+
+Cluster 7; contribution 0.0120:
+[('case constitutional', '0.6773'), ('constitution court', '0.6120'), ('government regulation', '0.2112')]
+
+
+Cluster 8; contribution 0.0109:
+[('constitutional protection', '0.8108'), ('district government', '0.3420')]
+
+
+Cluster 9; contribution 0.0103:
+[('constitutionally sufficient', '0.7203'), ('constitutionally permissible', '0.4049'), ('constitutional deprivation', '0.2914'), ('government judgment', '0.2771'), ('determination publication', '0.2496')]
+
+
+Cluster 10; contribution 0.0097:
+[('constitutional requirement', '0.7497'), ('government regulation', '0.3637'), ('constitution state', '0.2857'), ('constitution provision', '0.2381'), ('argument government', '0.2364')]
+
+
+Cluster 11; contribution 0.0090:
+[('constitution violate', '0.7083'), ('challenge constitutionality', '0.3850'), ('finding unconstitutional', '0.3677'), ('constitution state', '0.2395')]
+
+
+Cluster 12; contribution 0.0075:
+[('constitutional obligation', '0.7633'), ('government position', '0.2952'), ('adjudication constitutional', '0.2897'), ('constitutional violation', '0.2417')]
+
+
+Cluster 13; contribution 0.0071:
+[('decision government', '0.7917'), ('government question', '0.2581'), ('constitutional question', '0.2200')]
+
+
+Cluster 14; contribution 0.0069:
+[('action government', '0.7493'), ('argument constitutional', '0.4608'), ('government regulation', '0.2689')]
+
+
+Cluster 15; contribution 0.0061:
+[('citation quotation', '0.8151'), ('constitutional defendant', '0.3105')]
+
+
+Cluster 16; contribution 0.0058:
+[('consideration decision', '0.8859')]
+
+
+Cluster 17; contribution 0.0050:
+[('constitutional question', '0.7272'), ('condition unconstitutional', '0.5456'), ('district government', '0.3110')]
+
+
+Cluster 18; contribution 0.0046:
+[('constitutionality section', '0.5780'), ('constitution section', '0.5180'), ('constitution district', '0.3193'), ('constitution state', '0.2583'), ('challenge constitutionality', '0.2311'), ('determination publication', '0.2179')]
+
+
