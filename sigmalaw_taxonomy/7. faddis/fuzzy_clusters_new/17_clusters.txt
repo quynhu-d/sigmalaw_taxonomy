@@ -1,0 +1,22 @@
+Category 17; 2 clusters
+____________________________________________________________________________________________________
+Cluster 0; contribution 0.0451+0.0000j:
+[('misrepresentation plaintiff', '0.3560'), ('distribution termination', '0.3509'), ('misrepresentation rico', '0.3421'), ('district representation', '0.2431'), ('form misrepresentation', '0.2325'), ('information make', '0.2134')]
+
+
+Cluster 1; contribution 0.0425-0.0000j:
+[('corporation plaintiff', '0.3657'), ('information representation', '0.3489'), ('defendant misrepresentation', '0.2950'), ('loss misrepresentation', '0.2177'), ('holder share', '0.2152')]
+
+
+Cluster 2; contribution 0.0121+0.0000j:
+[('corporation defendant', '0.3135'), ('partnership plaintiff', '0.2911'), ('alleged misrepresentation', '0.2821'), ('corporate corporation', '0.2726'), ('misrepresentation omission', '0.2424'), ('shareholder stand', '0.2187'), ('actual misrepresentation', '0.2107')]
+
+
+Cluster 3; contribution 0.0106+0.0000j:
+[('corporation judgment', '0.2949'), ('corporation formation', '0.2792'), ('allege misrepresentation', '0.2681'), ('defendant misrepresentation', '0.2545'), ('misrepresentation price', '0.2465'), ('shareholder standing', '0.2182'), ('corporate distribution', '0.2136')]
+
+
+Cluster 4; contribution 0.0047-0.0000j:
+[('fraud misrepresentation', '0.3859'), ('corporation corporation', '0.3324'), ('misrepresentation plaintiff', '0.3108'), ('information transaction', '0.2458'), ('involve misrepresentation', '0.2321'), ('fact misrepresentation', '0.2138')]
+
+

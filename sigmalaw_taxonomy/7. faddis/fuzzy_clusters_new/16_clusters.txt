@@ -1,0 +1,106 @@
+Category 16; 10 clusters
+____________________________________________________________________________________________________
+Cluster 0; contribution 0.0118:
+[('interpretation reasonable', '0.9678')]
+
+
+Cluster 1; contribution 0.0117:
+[('interpretation provision', '0.7602'), ('agreement indemnification', '0.5493'), ('arbitration arbitration', '0.3246')]
+
+
+Cluster 2; contribution 0.0115:
+[('fraud misrepresentation', '0.9252'), ('contract interpretation', '0.3084')]
+
+
+Cluster 3; contribution 0.0110:
+[('interpretation susceptible', '0.9145'), ('arbitration litigation', '0.2486')]
+
+
+Cluster 4; contribution 0.0106:
+[('agreement interpretation', '0.7260'), ('arbitration arbitration', '0.6340'), ('indemnification provision', '0.2305')]
+
+
+Cluster 5; contribution 0.0104:
+[('contractual extra', '0.9255')]
+
+
+Cluster 6; contribution 0.0104:
+[('services telecommunication', '0.8218'), ('employer multi', '0.3507')]
+
+
+Cluster 7; contribution 0.0102:
+[('interpretation performance', '0.8839'), ('interpretation unreasonable', '0.2456'), ('substantive unconscionability', '0.2138')]
+
+
+Cluster 8; contribution 0.0102:
+[('contractual interpretation', '0.9193')]
+
+
+Cluster 9; contribution 0.0100:
+[('corporation pennsylvania', '0.8562'), ('anti competitive', '0.2389'), ('injunction preliminary', '0.2124')]
+
+
+Cluster 10; contribution 0.0099:
+[('administrator interpretation', '0.8028'), ('arbitration international', '0.4893')]
+
+
+Cluster 11; contribution 0.0088:
+[('ambiguous interpretation', '0.8589'), ('interpretation provision', '0.2637'), ('judgment settlement', '0.2497')]
+
+
+Cluster 12; contribution 0.0086:
+[('interpretation relate', '0.6973'), ('judgment judgment', '0.4315'), ('arbitration enforceable', '0.3083'), ('arbitrability presumption', '0.2885')]
+
+
+Cluster 13; contribution 0.0082:
+[('misrepresentation omission', '0.8712'), ('arbitration enforceability', '0.2558')]
+
+
+Cluster 14; contribution 0.0082:
+[('discrimination employment', '0.5606'), ('employment termination', '0.5172'), ('employer multi', '0.4337'), ('administrator discretion', '0.2882')]
+
+
+Cluster 15; contribution 0.0078:
+[('arbitration interpretation', '0.6405'), ('enforcement interpretation', '0.5744'), ('agreement settlement', '0.2867'), ('claim indemnification', '0.2143')]
+
+
+Cluster 16; contribution 0.0077:
+[('arbitration dispute', '0.7528'), ('misrepresentation negligent', '0.4811'), ('arbitration tribunal', '0.2556')]
+
+
+Cluster 17; contribution 0.0077:
+[('arbitration litigation', '0.7333'), ('substantive unconscionability', '0.5693')]
+
+
+Cluster 18; contribution 0.0072:
+[('connection transaction', '0.8863')]
+
+
+Cluster 19; contribution 0.0066:
+[('injunction preliminary', '0.8526'), ('anti competitive', '0.3766')]
+
+
+Cluster 20; contribution 0.0066:
+[('interpretation party', '0.8931'), ('agreement arbitration', '0.2367')]
+
+
+Cluster 21; contribution 0.0064:
+[('plan reorganization', '0.7490'), ('reclassification reorganization', '0.4643')]
+
+
+Cluster 22; contribution 0.0064:
+[('alternative interpretation', '0.6989'), ('agreement government', '0.4965'), ('arbitration international', '0.3917')]
+
+
+Cluster 23; contribution 0.0060:
+[('broad interpretation', '0.7396'), ('make misrepresentation', '0.4145'), ('claim misrepresentation', '0.3628')]
+
+
+Cluster 24; contribution 0.0055:
+[('bankruptcy section', '0.8489'), ('decision make', '0.2541'), ('decision making', '0.2264')]
+
+
+Cluster 25; contribution 0.0052:
+[('reclassification reorganization', '0.9150')]
+
+

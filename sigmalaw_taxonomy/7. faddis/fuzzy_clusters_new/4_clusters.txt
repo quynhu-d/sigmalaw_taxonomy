@@ -1,0 +1,66 @@
+Category 4; 1 clusters
+____________________________________________________________________________________________________
+Cluster 0; contribution 0.0105:
+[('anti competitive', '0.7671'), ('agreement arbitration', '0.5734')]
+
+
+Cluster 1; contribution 0.0095:
+[('stat telecommunications', '0.7093'), ('discrimination violation', '0.5408'), ('action anticompetitive', '0.3005')]
+
+
+Cluster 2; contribution 0.0095:
+[('corporation corporation', '0.8002'), ('commission corporation', '0.4999')]
+
+
+Cluster 3; contribution 0.0091:
+[('anticompetitive case', '0.7161'), ('competition market', '0.3774'), ('anticompetitive test', '0.3595'), ('market telecommunication', '0.3201'), ('monopolization violation', '0.2602')]
+
+
+Cluster 4; contribution 0.0088:
+[('action professional', '0.8594'), ('patman robinson', '0.2867')]
+
+
+Cluster 5; contribution 0.0087:
+[('doctrine pennington', '0.4984'), ('judgment noninfringement', '0.4317'), ('decision making', '0.4227'), ('decision make', '0.4213'), ('infringement litigation', '0.2729')]
+
+
+Cluster 6; contribution 0.0083:
+[('compensation receive', '0.5749'), ('compensation reciprocal', '0.5258'), ('compensation intercarri', '0.4948')]
+
+
+Cluster 7; contribution 0.0083:
+[('california california', '0.6903'), ('market monopolization', '0.3086'), ('monopolization unlawful', '0.2927'), ('establish monopolization', '0.2603'), ('monopolization plaintiff', '0.2529'), ('monopolization violation', '0.2492')]
+
+
+Cluster 8; contribution 0.0077:
+[('enactment telecommunication', '0.8011'), ('service telecommunications', '0.3238'), ('anticompetitive conduct', '0.2430')]
+
+
+Cluster 9; contribution 0.0075:
+[('anticompetitive market', '0.7611'), ('telecommunications violation', '0.5282'), ('anticompetitive case', '0.2945')]
+
+
+Cluster 10; contribution 0.0070:
+[('arbitration association', '0.8032'), ('government investigation', '0.3200'), ('judgment noninfringement', '0.2615')]
+
+
+Cluster 11; contribution 0.0064:
+[('provision telecommunications', '0.6656'), ('anticompetitive restraint', '0.5518')]
+
+
+Cluster 12; contribution 0.0062:
+[('equipment manufacturer', '0.6558'), ('agreement manufacturer', '0.6131')]
+
+
+Cluster 13; contribution 0.0061:
+[('anticompetitive effect', '0.8701')]
+
+
+Cluster 14; contribution 0.0057:
+[('commission interpretation', '0.7140'), ('application interpretation', '0.5237')]
+
+
+Cluster 15; contribution 0.0049:
+[('anticompetitive foreseeable', '0.6592'), ('anticompetitive unreasonably', '0.4604'), ('infringement litigation', '0.2875')]
+
+

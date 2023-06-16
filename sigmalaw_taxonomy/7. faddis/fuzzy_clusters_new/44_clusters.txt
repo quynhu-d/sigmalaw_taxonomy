@@ -1,0 +1,98 @@
+Category 44; 7 clusters
+____________________________________________________________________________________________________
+Cluster 0; contribution 0.0126:
+[('case discrimination', '0.9712')]
+
+
+Cluster 1; contribution 0.0121:
+[('price waterhouse', '0.9015'), ('constitutional establish', '0.2102')]
+
+
+Cluster 2; contribution 0.0116:
+[('discrimination race', '0.7283'), ('constitutional plaintiffs', '0.4701'), ('retaliation violation', '0.4421')]
+
+
+Cluster 3; contribution 0.0114:
+[('discrimination unlawful', '0.9317'), ('constitutional establish', '0.2166')]
+
+
+Cluster 4; contribution 0.0109:
+[('disembark embark', '0.7422'), ('allegation specific', '0.5849')]
+
+
+Cluster 5; contribution 0.0107:
+[('plan reorganization', '0.7265'), ('organizational plaintiff', '0.5149'), ('circumstance unreasonable', '0.2279'), ('circumstance reasonable', '0.2269')]
+
+
+Cluster 6; contribution 0.0104:
+[('damage pennsylvania', '0.7187'), ('pennsylvania plaintiff', '0.6147')]
+
+
+Cluster 7; contribution 0.0099:
+[('government judgment', '0.7674'), ('certification settlement', '0.4114'), ('magistrate recommendation', '0.3342'), ('contribution indemnification', '0.2326')]
+
+
+Cluster 8; contribution 0.0097:
+[('amendment constitution', '0.8340'), ('exception misrepresentation', '0.3174'), ('discrimination subject', '0.2569'), ('constitutional establish', '0.2429')]
+
+
+Cluster 9; contribution 0.0096:
+[('discrimination pregnancy', '0.7113'), ('alleged misrepresentation', '0.5498')]
+
+
+Cluster 10; contribution 0.0089:
+[('constitutional deprivation', '0.7314'), ('discrimination harassment', '0.4110'), ('interpretation reasonable', '0.3046'), ('exception misrepresentation', '0.2724')]
+
+
+Cluster 11; contribution 0.0087:
+[('disability discrimination', '0.6225'), ('condition unconstitutional', '0.5518'), ('misrepresentation negligent', '0.3255'), ('discrimination retaliation', '0.2970')]
+
+
+Cluster 12; contribution 0.0087:
+[('determination district', '0.6856'), ('motion reconsideration', '0.6238')]
+
+
+Cluster 13; contribution 0.0085:
+[('bankruptcy proceeding', '0.8301'), ('circumstance reasonable', '0.2287')]
+
+
+Cluster 14; contribution 0.0085:
+[('discrimination title', '0.8586'), ('intentional misrepresentation', '0.2289'), ('misrepresentation negligent', '0.2268'), ('material misrepresentation', '0.2111')]
+
+
+Cluster 15; contribution 0.0080:
+[('discrimination plaintiff', '0.7573'), ('constitutional plaintiffs', '0.5134'), ('determination reason', '0.2563')]
+
+
+Cluster 16; contribution 0.0078:
+[('legitimate nondiscriminatory', '0.8032'), ('nondiscriminatory reason', '0.3323'), ('contribution indemnification', '0.2667')]
+
+
+Cluster 17; contribution 0.0065:
+[('discrimination employment', '0.6814'), ('certification settlement', '0.5560'), ('constitutional establish', '0.3389')]
+
+
+Cluster 18; contribution 0.0062:
+[('fraud misrepresentation', '0.5551'), ('claim discrimination', '0.5545'), ('constitutional plaintiffs', '0.5236'), ('determination plaintiff', '0.2302')]
+
+
+Cluster 19; contribution 0.0057:
+[('administrative assistant', '0.7356'), ('disability individual', '0.3806'), ('arbitration association', '0.3177'), ('predominance requirement', '0.2689'), ('agreement arbitration', '0.2536')]
+
+
+Cluster 20; contribution 0.0054:
+[('discrimination subject', '0.8400'), ('favorable termination', '0.2655'), ('intentional misrepresentation', '0.2444')]
+
+
+Cluster 21; contribution 0.0051:
+[('discrimination inference', '0.6839'), ('constitutional protection', '0.3696'), ('conviction unconstitutional', '0.3528'), ('discrimination harassment', '0.2308')]
+
+
+Cluster 22; contribution 0.0051:
+[('circumstance unreasonable', '0.5552'), ('circumstance reasonable', '0.5315'), ('negligence unseaworthiness', '0.5241')]
+
+
+Cluster 23; contribution 0.0049:
+[('interpretation performance', '0.8391'), ('exception misrepresentation', '0.2770')]
+
+
