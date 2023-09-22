@@ -1,0 +1,78 @@
+Category 11; 17 clusters
+____________________________________________________________________________________________________
+Cluster 0; contribution 0.0296:
+[('determination jury', '0.9925')]
+
+
+Cluster 1; contribution 0.0279:
+[('court determination', '0.9502'), ('include reasonable', '0.2455')]
+
+
+Cluster 2; contribution 0.0265:
+[('information information', '0.8389'), ('identification information', '0.4979')]
+
+
+Cluster 3; contribution 0.0261:
+[('interpretation reasonable', '0.9169'), ('agreement termination', '0.3175')]
+
+
+Cluster 4; contribution 0.0248:
+[('commission determination', '0.8734'), ('conclude judgment', '0.2969'), ('construction reasonable', '0.2669')]
+
+
+Cluster 5; contribution 0.0240:
+[('determination make', '0.9180'), ('determination reasonable', '0.3325')]
+
+
+Cluster 6; contribution 0.0234:
+[('determination factual', '0.8611'), ('application interpretation', '0.3770'), ('judgment motion', '0.2680')]
+
+
+Cluster 7; contribution 0.0232:
+[('requirement section', '0.7517'), ('agreement termination', '0.4933'), ('agreement interpretation', '0.3976')]
+
+
+Cluster 8; contribution 0.0227:
+[('citation quotation', '0.8336'), ('discussion judgment', '0.3464'), ('include reasonable', '0.3012'), ('conclude judgment', '0.2456')]
+
+
+Cluster 9; contribution 0.0195:
+[('cause termination', '0.9018'), ('interpretation section', '0.2126')]
+
+
+Cluster 10; contribution 0.0178:
+[('discussion judgment', '0.8774'), ('application section', '0.3642')]
+
+
+Cluster 11; contribution 0.0161:
+[('affirmative determination', '0.8748'), ('determination regard', '0.2727'), ('interpretation section', '0.2219')]
+
+
+Cluster 12; contribution 0.0152:
+[('judgment motion', '0.7326'), ('contract interpretation', '0.4776'), ('provision question', '0.3721'), ('commerce determination', '0.2120')]
+
+
+Cluster 13; contribution 0.0131:
+[('disposition judgment', '0.7259'), ('include reasonable', '0.5936')]
+
+
+Cluster 14; contribution 0.0115:
+[('agreement termination', '0.6862'), ('interpretation section', '0.5615'), ('application interpretation', '0.4324')]
+
+
+Cluster 15; contribution 0.0112:
+[('commerce determination', '0.4962'), ('action question', '0.4480'), ('judgment judgment', '0.4405'), ('interpretation regulation', '0.4002'), ('agreement interpretation', '0.2812')]
+
+
+Cluster 16; contribution 0.0109:
+[('determination regard', '0.8845'), ('determination reasonable', '0.2826')]
+
+
+Cluster 17; contribution 0.0061:
+[('identification information', '0.7852'), ('action question', '0.4813'), ('interpretation regulation', '0.2371')]
+
+
+Cluster 18; contribution 0.0036:
+[('construction reasonable', '0.7175'), ('determination reasonable', '0.4640'), ('agreement interpretation', '0.3077'), ('judgment judgment', '0.2180')]
+
+

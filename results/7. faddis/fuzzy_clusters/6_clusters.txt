@@ -1,0 +1,94 @@
+Category 6; 15 clusters
+____________________________________________________________________________________________________
+Cluster 0; contribution 0.0213:
+[('connection transaction', '0.9338'), ('connection requirement', '0.2777')]
+
+
+Cluster 1; contribution 0.0210:
+[('determination make', '0.9552')]
+
+
+Cluster 2; contribution 0.0204:
+[('action judgment', '0.9224'), ('application section', '0.2862')]
+
+
+Cluster 3; contribution 0.0201:
+[('follow judgment', '0.9257'), ('conclusion judgment', '0.2188')]
+
+
+Cluster 4; contribution 0.0197:
+[('disposition judgment', '0.9346')]
+
+
+Cluster 5; contribution 0.0188:
+[('corporation corporation', '0.9430')]
+
+
+Cluster 6; contribution 0.0188:
+[('judgment motion', '0.8976'), ('requirement stand', '0.2786')]
+
+
+Cluster 7; contribution 0.0183:
+[('provision section', '0.6841'), ('obligation payment', '0.4798'), ('judgment provide', '0.4602'), ('judgment judgment', '0.2189')]
+
+
+Cluster 8; contribution 0.0178:
+[('citation judgment', '0.9291')]
+
+
+Cluster 9; contribution 0.0171:
+[('conclusion judgment', '0.9619')]
+
+
+Cluster 10; contribution 0.0161:
+[('application request', '0.6785'), ('interpretation question', '0.6137'), ('regulation section', '0.3280')]
+
+
+Cluster 11; contribution 0.0156:
+[('complaint judgment', '0.8958'), ('obligation provide', '0.2827')]
+
+
+Cluster 12; contribution 0.0151:
+[('accordingly judgment', '0.7627'), ('action litigation', '0.5348')]
+
+
+Cluster 13; contribution 0.0135:
+[('judgment section', '0.6493'), ('application interpretation', '0.5260'), ('agreement provision', '0.3711'), ('obligation payment', '0.2557')]
+
+
+Cluster 14; contribution 0.0120:
+[('motion reconsideration', '0.7690'), ('action litigation', '0.4482'), ('obligation provide', '0.3269'), ('agreement obligation', '0.2127')]
+
+
+Cluster 15; contribution 0.0097:
+[('connection requirement', '0.8789'), ('agreement obligation', '0.2569'), ('judgment motion', '0.2399')]
+
+
+Cluster 16; contribution 0.0085:
+[('application section', '0.5853'), ('objection payment', '0.5112'), ('application request', '0.4045'), ('constitution section', '0.3105'), ('application interpretation', '0.2368')]
+
+
+Cluster 17; contribution 0.0082:
+[('constitutional requirement', '0.7641'), ('regulation section', '0.4998')]
+
+
+Cluster 18; contribution 0.0082:
+[('additional requirement', '0.7493'), ('interpretation reasonable', '0.5272')]
+
+
+Cluster 19; contribution 0.0076:
+[('regulation violation', '0.7563'), ('regulation section', '0.4898')]
+
+
+Cluster 20; contribution 0.0072:
+[('provision provision', '0.7519'), ('agreement provision', '0.4259'), ('provision section', '0.3620'), ('application section', '0.2119')]
+
+
+Cluster 21; contribution 0.0060:
+[('constitution section', '0.6450'), ('constitution regulation', '0.6061'), ('agreement obligation', '0.2558')]
+
+
+Cluster 22; contribution 0.0036:
+[('obligation payment', '0.5809'), ('agreement obligation', '0.5608'), ('obligation provide', '0.3827'), ('objection payment', '0.2907')]
+
+

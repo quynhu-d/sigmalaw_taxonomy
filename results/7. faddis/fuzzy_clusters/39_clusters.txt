@@ -1,0 +1,50 @@
+Category 39; 0 clusters
+____________________________________________________________________________________________________
+Cluster 0; contribution 0.0082:
+[('determination government', '0.5571'), ('government government', '0.4444'), ('decision termination', '0.4308'), ('condition requirement', '0.4127'), ('contractor judgment', '0.3691')]
+
+
+Cluster 1; contribution 0.0077:
+[('contractual government', '0.5730'), ('government obligation', '0.5640'), ('construction contractor', '0.4584'), ('decision determination', '0.2264'), ('contract requirement', '0.2145')]
+
+
+Cluster 2; contribution 0.0069:
+[('government judgment', '0.5662'), ('condition requirement', '0.4989'), ('contract determination', '0.4835'), ('contracting government', '0.3355')]
+
+
+Cluster 3; contribution 0.0066:
+[('government violation', '0.8005'), ('accord government', '0.2489'), ('government purpose', '0.2138'), ('conclusion government', '0.2132')]
+
+
+Cluster 4; contribution 0.0066:
+[('limitation requirement', '0.6333'), ('government specification', '0.5382'), ('contractual requirement', '0.2681'), ('contract obligation', '0.2543')]
+
+
+Cluster 5; contribution 0.0063:
+[('government option', '0.8060'), ('government recover', '0.3036')]
+
+
+Cluster 6; contribution 0.0061:
+[('contract contractor', '0.6401'), ('contract government', '0.5332'), ('decision termination', '0.3782'), ('government requirement', '0.2149')]
+
+
+Cluster 7; contribution 0.0060:
+[('government make', '0.6850'), ('formation government', '0.4175'), ('action determination', '0.2911'), ('contract governmental', '0.2579'), ('government meet', '0.2185')]
+
+
+Cluster 8; contribution 0.0060:
+[('government liability', '0.6742'), ('government regulation', '0.3711'), ('government submit', '0.3585'), ('addition government', '0.2198')]
+
+
+Cluster 9; contribution 0.0052:
+[('administrative government', '0.7792'), ('discretion government', '0.2596'), ('establish government', '0.2516')]
+
+
+Cluster 10; contribution 0.0050:
+[('contention government', '0.5308'), ('evidence government', '0.5226'), ('far government', '0.3241'), ('determine government', '0.2603'), ('application government', '0.2235')]
+
+
+Cluster 11; contribution 0.0049:
+[('government interpretation', '0.5785'), ('contract specification', '0.4825'), ('requirement specification', '0.3604'), ('government specification', '0.3078')]
+
+

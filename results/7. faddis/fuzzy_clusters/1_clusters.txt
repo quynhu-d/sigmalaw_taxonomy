@@ -1,0 +1,98 @@
+Category 1; 18 clusters
+____________________________________________________________________________________________________
+Cluster 0; contribution 0.0208:
+[('determination reasonable', '0.8320'), ('decision decision', '0.5548')]
+
+
+Cluster 1; contribution 0.0202:
+[('determination support', '0.9849')]
+
+
+Cluster 2; contribution 0.0188:
+[('administrative discretion', '0.9610')]
+
+
+Cluster 3; contribution 0.0183:
+[('determination make', '0.9295'), ('administrative state', '0.2199')]
+
+
+Cluster 4; contribution 0.0182:
+[('administrative enforcement', '0.9302'), ('regulation violation', '0.2436')]
+
+
+Cluster 5; contribution 0.0178:
+[('administrative procedure', '0.8191'), ('adjudication administrative', '0.5044')]
+
+
+Cluster 6; contribution 0.0177:
+[('action requirement', '0.8487'), ('administrative requirement', '0.4532')]
+
+
+Cluster 7; contribution 0.0173:
+[('administrative proceedings', '0.7043'), ('administrative proceed', '0.6583')]
+
+
+Cluster 8; contribution 0.0172:
+[('appeal determination', '0.9563')]
+
+
+Cluster 9; contribution 0.0170:
+[('administrative file', '0.8170'), ('determination fact', '0.4988')]
+
+
+Cluster 10; contribution 0.0163:
+[('determination review', '0.6563'), ('administrative review', '0.5028'), ('administrative judge', '0.4024'), ('determination judge', '0.3272')]
+
+
+Cluster 11; contribution 0.0159:
+[('administrative determination', '0.9008')]
+
+
+Cluster 12; contribution 0.0150:
+[('administrative judgment', '0.6213'), ('determination evidence', '0.4622'), ('administrative evidence', '0.4419'), ('determination petitioner', '0.3536'), ('administrative petition', '0.2475')]
+
+
+Cluster 13; contribution 0.0146:
+[('application determination', '0.7719'), ('administrative interpretation', '0.5280'), ('decision decision', '0.2789')]
+
+
+Cluster 14; contribution 0.0125:
+[('determination regard', '0.8444'), ('adjudication administrative', '0.3847')]
+
+
+Cluster 15; contribution 0.0123:
+[('administrative state', '0.9071'), ('determination petitioner', '0.2388')]
+
+
+Cluster 16; contribution 0.0111:
+[('action administrative', '0.7983'), ('interpretation regulation', '0.4502'), ('action requirement', '0.2320'), ('decision termination', '0.2134')]
+
+
+Cluster 17; contribution 0.0107:
+[('administrative part', '0.8459'), ('court determination', '0.2501'), ('application interpretation', '0.2177')]
+
+
+Cluster 18; contribution 0.0094:
+[('application application', '0.6627'), ('administrative regulation', '0.4709'), ('administrative interpretation', '0.4120'), ('determination review', '0.2735')]
+
+
+Cluster 19; contribution 0.0094:
+[('administrative decision', '0.7400'), ('court determination', '0.4954'), ('administrative review', '0.3009'), ('interpretation regulation', '0.2259')]
+
+
+Cluster 20; contribution 0.0068:
+[('decision determination', '0.7801'), ('administrative review', '0.3161'), ('administrative evidence', '0.3025'), ('court determination', '0.2982')]
+
+
+Cluster 21; contribution 0.0065:
+[('regulation violation', '0.8646')]
+
+
+Cluster 22; contribution 0.0056:
+[('interpretation regulation', '0.6824'), ('application interpretation', '0.4700'), ('reasonable regulation', '0.3770'), ('application regulation', '0.2937')]
+
+
+Cluster 23; contribution 0.0043:
+[('decision reconsideration', '0.6681'), ('decision reasonable', '0.4642'), ('administrative interpretation', '0.3540'), ('decision decision', '0.3496'), ('decision termination', '0.2191')]
+
+

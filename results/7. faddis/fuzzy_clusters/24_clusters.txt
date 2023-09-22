@@ -1,0 +1,58 @@
+Category 24; 0 clusters
+____________________________________________________________________________________________________
+Cluster 0; contribution 0.0076:
+[('agreement arbitration', '0.9746')]
+
+
+Cluster 1; contribution 0.0075:
+[('arbitration rejection', '0.7898'), ('arbitration object', '0.5894')]
+
+
+Cluster 2; contribution 0.0074:
+[('arbitration arbitration', '0.8506'), ('arbitrator determination', '0.4463'), ('agreement arbitrator', '0.2388')]
+
+
+Cluster 3; contribution 0.0072:
+[('arbitration inclusion', '0.8493'), ('arbitration conclude', '0.4435')]
+
+
+Cluster 4; contribution 0.0071:
+[('arbitration unenforceable', '0.6485'), ('arbitration enforceable', '0.5634'), ('arbitration enforcement', '0.3685'), ('arbitration enforce', '0.2860')]
+
+
+Cluster 5; contribution 0.0067:
+[('arbitration party', '0.8732'), ('arbitration send', '0.2898'), ('arbitration arbitrator', '0.2687')]
+
+
+Cluster 6; contribution 0.0063:
+[('arbitration proceed', '0.9130'), ('arbitration send', '0.2101')]
+
+
+Cluster 7; contribution 0.0061:
+[('arbitration consider', '0.8745')]
+
+
+Cluster 8; contribution 0.0061:
+[('arbitration view', '0.7528'), ('action arbitration', '0.4930'), ('agree arbitration', '0.2240')]
+
+
+Cluster 9; contribution 0.0060:
+[('arbitration time', '0.8120'), ('also arbitration', '0.2252'), ('arbitration court', '0.2213'), ('arbitration rptr', '0.2168')]
+
+
+Cluster 10; contribution 0.0058:
+[('arbitration upon', '0.7245'), ('arbitration mention', '0.3951'), ('arbitration code', '0.2650'), ('arbitration opposition', '0.2498'), ('arbitration take', '0.2248')]
+
+
+Cluster 11; contribution 0.0056:
+[('arbitration mediation', '0.5895'), ('arbitration submit', '0.5146'), ('arbitration petition', '0.3242'), ('arbitration member', '0.2523')]
+
+
+Cluster 12; contribution 0.0052:
+[('arbitration discussion', '0.6940'), ('arbitration judicial', '0.3433'), ('although arbitration', '0.3234'), ('arbitrability arbitration', '0.2229'), ('arbitration requirement', '0.2217')]
+
+
+Cluster 13; contribution 0.0049:
+[('arbitration association', '0.5908'), ('arbitration following', '0.4332'), ('arbitration follow', '0.3955'), ('arbitration representative', '0.2429')]
+
+

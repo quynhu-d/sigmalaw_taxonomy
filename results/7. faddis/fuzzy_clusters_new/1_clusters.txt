@@ -1,0 +1,90 @@
+Category 1; 6 clusters
+____________________________________________________________________________________________________
+Cluster 0; contribution 0.0118:
+[('immigration interpretation', '0.7353'), ('application application', '0.6760')]
+
+
+Cluster 1; contribution 0.0113:
+[('administrative exhaustion', '0.9530')]
+
+
+Cluster 2; contribution 0.0111:
+[('determination reasonable', '0.7078'), ('application interpretation', '0.6607')]
+
+
+Cluster 3; contribution 0.0107:
+[('jurisdictional nonjurisdictional', '0.7619'), ('jurisdictional requirement', '0.5281'), ('conviction conviction', '0.2146')]
+
+
+Cluster 4; contribution 0.0101:
+[('pneumoconiosis pneumoconiosis', '0.8090'), ('board reconsideration', '0.2802'), ('consideration take', '0.2594'), ('motion reconsideration', '0.2379'), ('decision reconsideration', '0.2303')]
+
+
+Cluster 5; contribution 0.0100:
+[('interpretation regulations', '0.7243'), ('immigration naturalization', '0.5897')]
+
+
+Cluster 6; contribution 0.0098:
+[('misrepresentation willful', '0.9227')]
+
+
+Cluster 7; contribution 0.0094:
+[('agreement interconnection', '0.7333'), ('discrimination unlawful', '0.4912'), ('authorization immigration', '0.2989')]
+
+
+Cluster 8; contribution 0.0092:
+[('interpretation permissible', '0.6632'), ('application certification', '0.5899'), ('immigration opinion', '0.2871')]
+
+
+Cluster 9; contribution 0.0090:
+[('administrative exhaust', '0.8332'), ('interpretation unreasonable', '0.2267'), ('interpretation regulation', '0.2199'), ('decision immigration', '0.2161')]
+
+
+Cluster 10; contribution 0.0089:
+[('administrative grievance', '0.8748'), ('discrimination retaliation', '0.2679')]
+
+
+Cluster 11; contribution 0.0084:
+[('interpretation review', '0.8147'), ('administrative charge', '0.3534'), ('regulatory telecommunication', '0.2433')]
+
+
+Cluster 12; contribution 0.0083:
+[('rehabilitation section', '0.7273'), ('application withholding', '0.5340'), ('administrative available', '0.3172')]
+
+
+Cluster 13; contribution 0.0080:
+[('administrative interpretation', '0.7709'), ('decision immigration', '0.4798'), ('reasonable regulation', '0.2887')]
+
+
+Cluster 14; contribution 0.0075:
+[('administrator interpretation', '0.8467'), ('immigration regulation', '0.2743'), ('decision make', '0.2487')]
+
+
+Cluster 15; contribution 0.0073:
+[('explanation investigation', '0.7863'), ('conviction conviction', '0.4287'), ('nonattainment significantly', '0.2197')]
+
+
+Cluster 16; contribution 0.0068:
+[('interpretation reasonable', '0.7459'), ('immigration regulation', '0.3894'), ('application determination', '0.2593'), ('administrative judge', '0.2521'), ('administrative exhaust', '0.2215'), ('decision immigration', '0.2142')]
+
+
+Cluster 17; contribution 0.0063:
+[('circumstance special', '0.6994'), ('government persecution', '0.3724'), ('service telecommunication', '0.2117')]
+
+
+Cluster 18; contribution 0.0060:
+[('consideration take', '0.7820'), ('decision make', '0.4984')]
+
+
+Cluster 19; contribution 0.0059:
+[('administrative determination', '0.8152'), ('decision immigration', '0.3815'), ('application interpretation', '0.3341')]
+
+
+Cluster 20; contribution 0.0054:
+[('nonattainment significantly', '0.7483'), ('construction modification', '0.3728'), ('decision making', '0.2553')]
+
+
+Cluster 21; contribution 0.0049:
+[('constitutional violation', '0.7405'), ('eligibility naturalization', '0.3970'), ('application naturalization', '0.2704'), ('conviction conviction', '0.2476')]
+
+

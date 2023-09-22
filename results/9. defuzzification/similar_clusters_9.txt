@@ -1,0 +1,38 @@
+Category 9 Civil Rights
+________________________________________
+
+Clusters 0, 1. Similarity: 0.62 (threshold = 2/3); 0.75 (threshold = .8).
+	cluster 0 ['discrimination district']
+	cluster 1 ['discrimination discrimination']
+
+
+Clusters 1, 4. Similarity: 0.75 (threshold = 2/3); 0.75 (threshold = .8).
+	cluster 1 ['discrimination discrimination']
+	cluster 4 ['commission discrimination']
+
+
+Clusters 1, 6. Similarity: 0.62 (threshold = 2/3); 0.62 (threshold = .8).
+	cluster 1 ['discrimination discrimination']
+	cluster 6 ['discrimination employment' 'position question']
+
+
+Clusters 1, 7. Similarity: 0.75 (threshold = 2/3); 0.75 (threshold = .8).
+	cluster 1 ['discrimination discrimination']
+	cluster 7 ['discrimination therefore']
+
+
+Clusters 1, 9. Similarity: 0.75 (threshold = 2/3); 0.75 (threshold = .8).
+	cluster 1 ['discrimination discrimination']
+	cluster 9 ['discrimination intentional']
+
+
+Clusters 1, 11. Similarity: 0.75 (threshold = 2/3); 0.75 (threshold = .8).
+	cluster 1 ['discrimination discrimination']
+	cluster 11 ['discrimination equal']
+
+
+Clusters 1, 12. Similarity: 0.75 (threshold = 2/3); 0.75 (threshold = .8).
+	cluster 1 ['discrimination discrimination']
+	cluster 12 ['discrimination inference']
+
+

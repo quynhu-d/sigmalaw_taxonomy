@@ -1,0 +1,94 @@
+Category 13; 10 clusters
+____________________________________________________________________________________________________
+Cluster 0; contribution 0.0137:
+[('condition unconstitutional', '0.9769')]
+
+
+Cluster 1; contribution 0.0123:
+[('requirement unconstitutional', '0.8005'), ('government information', '0.4318'), ('question reasonable', '0.3043'), ('discrimination viewpoint', '0.2394')]
+
+
+Cluster 2; contribution 0.0123:
+[('commission commission', '0.9138'), ('establish well', '0.2245')]
+
+
+Cluster 3; contribution 0.0120:
+[('disclosure presumption', '0.8788'), ('reasonable reasonable', '0.2777')]
+
+
+Cluster 4; contribution 0.0119:
+[('constitutional violation', '0.8051'), ('amendment constitution', '0.5518')]
+
+
+Cluster 5; contribution 0.0118:
+[('contemporaneous objection', '0.7800'), ('defendant misrepresentation', '0.3787'), ('motion reconsideration', '0.2848'), ('prohibition semiautomatic', '0.2601')]
+
+
+Cluster 6; contribution 0.0116:
+[('discrimination unconstitutional', '0.8671'), ('discrimination viewpoint', '0.3343'), ('decision making', '0.2685')]
+
+
+Cluster 7; contribution 0.0111:
+[('communication information', '0.9090'), ('administration enforcement', '0.2470')]
+
+
+Cluster 8; contribution 0.0104:
+[('constitution section', '0.9025'), ('amendment constitution', '0.2157')]
+
+
+Cluster 9; contribution 0.0104:
+[('discrimination political', '0.6832'), ('adjudication constitutional', '0.5826'), ('administrative determination', '0.2103')]
+
+
+Cluster 10; contribution 0.0094:
+[('administrative complaint', '0.4983'), ('administrative segregation', '0.4584'), ('administrative imposition', '0.4581'), ('administration enforcement', '0.3879'), ('administrative determination', '0.3624')]
+
+
+Cluster 11; contribution 0.0092:
+[('amendment jurisprudence', '0.7292'), ('establish well', '0.4254'), ('establishment violation', '0.3338')]
+
+
+Cluster 12; contribution 0.0089:
+[('challenge constitutionality', '0.6760'), ('constitutional establish', '0.5310'), ('decision make', '0.3558'), ('constitutional requirement', '0.2156')]
+
+
+Cluster 13; contribution 0.0081:
+[('disclosure information', '0.8565'), ('constitutional exercise', '0.2971')]
+
+
+Cluster 14; contribution 0.0080:
+[('condition supervise', '0.6167'), ('revocation supervise', '0.5827'), ('reasonable reasonable', '0.2690'), ('government organization', '0.2121')]
+
+
+Cluster 15; contribution 0.0076:
+[('prohibition semiautomatic', '0.8386'), ('protection religious', '0.3752'), ('establishment violation', '0.2469')]
+
+
+Cluster 16; contribution 0.0074:
+[('anti discrimination', '0.4731'), ('discrimination unlawful', '0.4144'), ('discrimination employment', '0.4103'), ('discrimination subject', '0.3671'), ('discrimination retaliation', '0.3553'), ('discrimination viewpoint', '0.2606')]
+
+
+Cluster 17; contribution 0.0061:
+[('constitutional protection', '0.7872'), ('conditions unconstitutional', '0.2958'), ('establishment violation', '0.2612'), ('revocation supervise', '0.2125')]
+
+
+Cluster 18; contribution 0.0058:
+[('government organization', '0.5714'), ('authorization congressional', '0.4485'), ('application interpretation', '0.4410'), ('government requirement', '0.2828'), ('interpretation reasonable', '0.2608'), ('construction government', '0.2344')]
+
+
+Cluster 19; contribution 0.0056:
+[('constitutional fundamental', '0.6552'), ('identify information', '0.4946'), ('application unreasonable', '0.2944')]
+
+
+Cluster 20; contribution 0.0054:
+[('information question', '0.3468'), ('constitutional obligation', '0.3171'), ('constitution provision', '0.3034'), ('constitution violation', '0.2790'), ('dissemination information', '0.2698'), ('information withhold', '0.2648'), ('information intelligence', '0.2606'), ('constitutional deprivation', '0.2504'), ('classified information', '0.2398'), ('unconstitutional viewpoint', '0.2318'), ('challenge constitutional', '0.2286')]
+
+
+Cluster 21; contribution 0.0050:
+[('decision making', '0.5295'), ('decision make', '0.4942'), ('constructive discharge', '0.4516'), ('construction government', '0.3080')]
+
+
+Cluster 22; contribution 0.0042:
+[('constitutional exercise', '0.7034'), ('identify information', '0.5120'), ('constitutional requirement', '0.2952')]
+
+

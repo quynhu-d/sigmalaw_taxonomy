@@ -1,0 +1,74 @@
+Category 4; 4 clusters
+____________________________________________________________________________________________________
+Cluster 0; contribution 0.0131:
+[('determination district', '0.7509'), ('competition relevant', '0.6601')]
+
+
+Cluster 1; contribution 0.0110:
+[('competition district', '0.5190'), ('agreement anticompetitive', '0.4456'), ('antitrust litigation', '0.4254'), ('antitrust requirement', '0.4072'), ('anticompetitive violation', '0.3470')]
+
+
+Cluster 2; contribution 0.0110:
+[('independent judgment', '0.8823'), ('competition substantial', '0.2692')]
+
+
+Cluster 3; contribution 0.0104:
+[('determination make', '0.8412'), ('competition competition', '0.2987'), ('agreement agreement', '0.2558')]
+
+
+Cluster 4; contribution 0.0099:
+[('competition requirement', '0.8039'), ('defendant judgment', '0.3045'), ('action anticompetitive', '0.2737')]
+
+
+Cluster 5; contribution 0.0094:
+[('anticompetitive demonstrate', '0.6494'), ('competitive position', '0.5907'), ('representation requirement', '0.3103')]
+
+
+Cluster 6; contribution 0.0091:
+[('monopolization violation', '0.6812'), ('consideration sufficient', '0.4862'), ('section violation', '0.2843'), ('appropriate judgment', '0.2466')]
+
+
+Cluster 7; contribution 0.0086:
+[('competition quote', '0.8768'), ('requirement standing', '0.2447')]
+
+
+Cluster 8; contribution 0.0085:
+[('anticompetitive effect', '0.9000')]
+
+
+Cluster 9; contribution 0.0084:
+[('competition product', '0.7479'), ('anticompetitive conduct', '0.4460'), ('requirement standing', '0.2205')]
+
+
+Cluster 10; contribution 0.0080:
+[('agreement antitrust', '0.5803'), ('defendant judgment', '0.5165'), ('anti competitive', '0.3936'), ('anticompetitive violation', '0.3820')]
+
+
+Cluster 11; contribution 0.0075:
+[('competition protection', '0.8159'), ('agreement include', '0.2741'), ('determination relevant', '0.2271'), ('competitive position', '0.2226')]
+
+
+Cluster 12; contribution 0.0071:
+[('agreement violation', '0.6764'), ('anticompetitive defendant', '0.5752'), ('antitrust competition', '0.2750')]
+
+
+Cluster 13; contribution 0.0062:
+[('competition effective', '0.8064'), ('requirement standing', '0.3188')]
+
+
+Cluster 14; contribution 0.0058:
+[('agreement antitrust', '0.5887'), ('judgment requirement', '0.4795'), ('district litigation', '0.3681'), ('action anticompetitive', '0.3648')]
+
+
+Cluster 15; contribution 0.0057:
+[('agreement competitive', '0.7138'), ('agreement defendant', '0.4976'), ('determination make', '0.2212')]
+
+
+Cluster 16; contribution 0.0052:
+[('agreement unreasonable', '0.6274'), ('monopolization violation', '0.4727'), ('agreement reasonable', '0.4403'), ('follow judgment', '0.2654')]
+
+
+Cluster 17; contribution 0.0047:
+[('anticompetitive particular', '0.6378'), ('competition elimination', '0.4652'), ('competition substantial', '0.3102'), ('action litigation', '0.2194')]
+
+
